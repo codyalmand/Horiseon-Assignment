@@ -13,3 +13,7 @@ I find that the elements follow a logical structure independent of styling and p
 4. Viewing the heading attributes, I find they fall in sequential order.
 5. Viewing the title element, I find a concise, descriptive title.
 
+https://codyalmand.github.io/Horiseon-Assignment/
+#
+
+![](/Screenshot/01-html-css-git-homework-demo.png)
